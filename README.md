@@ -1,3 +1,8 @@
+# Movie Search react app
+
+Enter the movie name and get the information about IMDB ratings , Movie Plot , Actors and many more 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

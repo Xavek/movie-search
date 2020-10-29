@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Henny+Penny&family=Turret+Road&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  text-align: center;
+  margin-top: 5px;
+  font-family: "Henny Penny", cursive;
+}
+
+.form-head {
+  /* border: 2px solid grey; */
+  text-align: center;
+  margin-top: 16px;
+  padding: 16px;
+  margin-bottom: 20px;
+}
+
+.input-form {
+  padding: 8px;
+  width: 25%;
+  font-size: 1.3rem;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-family: "Turret Road", cursive;
+}
+
+.input-btn {
+  margin-left: 30px;
+  padding: 8px;
+  font-size: 1rem;
+  border-radius: 25px;
+  outline: none;
+  font-family: "Turret Road", cursive;
+}
+
+.input-btn:hover {
+  cursor: pointer;
+  border: none;
+}

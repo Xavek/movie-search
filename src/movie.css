@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap");
+
+.movie-container {
+  border: 2px solid grey;
+  display: flex;
+  margin: 8px 14px 14px 14px;
+}
+.movie-inner {
+  margin-left: 10px;
+}
+
+.movie-container img {
+  height: fit-content;
+  max-width: 300px;
+  border: 2px solid blue;
+}
+
+.hero-title {
+  margin-top: 7px;
+  margin-bottom: 5px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.hero-btn {
+  margin-top: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.1rem;
+}
+
+.hero-year {
+  margin-bottom: 7px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* //////////////////////////////////////////////// */
+
+.info-container {
+  margin-top: 9px;
+  font-family: "Nunito", sans-serif;
+}
+
+.info-container p {
+  margin-bottom: 9px;
+  font-size: 1.05rem;
+  font-weight: 400;
+}
+
+.info-container span {
+  margin-right: 10px;
+  font-size: 1.19rem;
+  font-weight: 800;
+}
+
+.info-plot {
+  margin-right: 7px;
+}
